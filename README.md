@@ -1,10 +1,12 @@
-# Jmsteitz Tilp
+# TILP + GFM
+
+Homebrew formulas for TILP, GFM, and necessary libraries. See also (http://lpg.ticalc.org/prj_tilp).
 
 ## How do I install these formulae?
 
-`brew install jmsteitz/tilp/<formula>`
+`brew install jmsteitz/tilp/tilp`
 
-Or `brew tap jmsteitz/tilp` and then `brew install <formula>`.
+Or `brew tap jmsteitz/tilp` and then `brew install tilp`.
 
 ## Documentation
 
