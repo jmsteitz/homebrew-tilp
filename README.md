@@ -1,6 +1,6 @@
 # TILP + GFM
 
-Homebrew formulas for TILP, GFM, and necessary libraries. See also (http://lpg.ticalc.org/prj_tilp).
+Homebrew formulae for TILP, GFM, and necessary libraries. See also (http://lpg.ticalc.org/prj_tilp).
 
 ## How do I install these formulae?
 
